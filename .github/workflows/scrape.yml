@@ -4,8 +4,7 @@ on:
   push:
   workflow_dispatch:
   schedule:
-  # Daily at 6:23 AM UTC
-  - cron: '15 11 * * *'
+  - cron: '15 11,23 * * *'
   # For hourly at 42 minutes past the hour: '42 * * * *'
 
 permissions:
