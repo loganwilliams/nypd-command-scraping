@@ -14499,36 +14499,6 @@
       },
       {
         "label": "Appointment Date:",
-        "value": "7/13/2022 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "046 PRECINCT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "1/5/2023 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "ASIAN                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "16178   "
-      }
-    ]
-  },
-  {
-    "title": "AHMED, MUHAMMED R                                                                                       ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
         "value": "4/15/2019 12:00:00 AM"
       },
       {
@@ -14546,6 +14516,36 @@
       {
         "label": "Shield No:",
         "value": "4585    "
+      }
+    ]
+  },
+  {
+    "title": "AHMED, MUHAMMED R                                                                                       ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "7/13/2022 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "046 PRECINCT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "1/5/2023 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "ASIAN                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "16178   "
       }
     ]
   },
@@ -14949,36 +14949,6 @@
       },
       {
         "label": "Appointment Date:",
-        "value": "7/7/2021 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "TRANSIT DISTRICT 30"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "5/2/2024 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "ASIAN                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "11924   "
-      }
-    ]
-  },
-  {
-    "title": "AHMED, SABBIR                                                                                           ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
         "value": "12/17/2025 12:00:00 AM"
       },
       {
@@ -15026,6 +14996,36 @@
       {
         "label": "Shield No:",
         "value": " "
+      }
+    ]
+  },
+  {
+    "title": "AHMED, SABBIR                                                                                           ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "7/7/2021 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "TRANSIT DISTRICT 30"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "5/2/2024 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "ASIAN                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "11924   "
       }
     ]
   },
@@ -18849,36 +18849,6 @@
       },
       {
         "label": "Appointment Date:",
-        "value": "10/7/2019 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "HOUSING PSA 4"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "11/18/2020 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "ASIAN                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "10307   "
-      }
-    ]
-  },
-  {
-    "title": "ALAMIN, MD                                                                                              ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
         "value": "1/17/2023 12:00:00 AM"
       },
       {
@@ -18896,6 +18866,36 @@
       {
         "label": "Shield No:",
         "value": "12229   "
+      }
+    ]
+  },
+  {
+    "title": "ALAMIN, MD                                                                                              ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "10/7/2019 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "HOUSING PSA 4"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "11/18/2020 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "ASIAN                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "10307   "
       }
     ]
   },
@@ -24875,36 +24875,6 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "12/29/2021 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "TRANSIT DISTRICT 34"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "12/21/2022 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "ASIAN                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "30330   "
-      }
-    ]
-  },
-  {
-    "title": "ALI, MD A                                                                                               ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
         "value": "SERGEANT"
       },
       {
@@ -24926,6 +24896,36 @@
       {
         "label": "Shield No:",
         "value": "5375    "
+      }
+    ]
+  },
+  {
+    "title": "ALI, MD A                                                                                               ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "12/29/2021 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "TRANSIT DISTRICT 34"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "12/21/2022 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "ASIAN                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "30330   "
       }
     ]
   },
@@ -41735,36 +41735,6 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "SERGEANT"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "7/10/2006 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "HEALTH & WELLNESS SECTION"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "2/28/2024 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "WHITE                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "718     "
-      }
-    ]
-  },
-  {
-    "title": "ANGELONE, JOSEPH J                                                                                      ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
         "value": "DETECTIVE 2ND GRADE"
       },
       {
@@ -41786,6 +41756,36 @@
       {
         "label": "Shield No:",
         "value": "805     "
+      }
+    ]
+  },
+  {
+    "title": "ANGELONE, JOSEPH J                                                                                      ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "SERGEANT"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "7/10/2006 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "HEALTH & WELLNESS SECTION"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "2/28/2024 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "WHITE                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "718     "
       }
     ]
   },
@@ -53495,36 +53495,6 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "INSPECTOR"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "7/10/2006 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "047 PRECINCT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "3/31/2025 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "ASIAN                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": " "
-      }
-    ]
-  },
-  {
-    "title": "ASHRAF, MUHAMMAD J                                                                                      ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
         "value": "SERGEANT"
       },
       {
@@ -53546,6 +53516,36 @@
       {
         "label": "Shield No:",
         "value": "133     "
+      }
+    ]
+  },
+  {
+    "title": "ASHRAF, MUHAMMAD J                                                                                      ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "INSPECTOR"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "7/10/2006 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "047 PRECINCT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "3/31/2025 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "ASIAN                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": " "
       }
     ]
   },
@@ -123605,36 +123605,6 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "10/25/2023 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "TRANSIT DISTRICT 11"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "5/7/2024 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "WHITE                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "2922    "
-      }
-    ]
-  },
-  {
-    "title": "BURKE, ANDREW J                                                                                         ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
         "value": "SERGEANT"
       },
       {
@@ -123656,6 +123626,36 @@
       {
         "label": "Shield No:",
         "value": "1898    "
+      }
+    ]
+  },
+  {
+    "title": "BURKE, ANDREW J                                                                                         ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "10/25/2023 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "TRANSIT DISTRICT 11"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "5/7/2024 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "WHITE                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "2922    "
       }
     ]
   },
@@ -155615,36 +155615,6 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "INSPECTOR"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "1/10/2005 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "PATROL BORO BRONX NORTH"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "5/19/2026 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "HISPANIC                                                                                                                                                                                                                                                       "
-      },
-      {
-        "label": "Shield No:",
-        "value": " "
-      }
-    ]
-  },
-  {
-    "title": "CASTRO, ERNESTO                                                                                         ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
         "value": "POLICE OFFICER"
       },
       {
@@ -155666,6 +155636,36 @@
       {
         "label": "Shield No:",
         "value": "15685   "
+      }
+    ]
+  },
+  {
+    "title": "CASTRO, ERNESTO                                                                                         ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "INSPECTOR"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "1/10/2005 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "PATROL BORO BRONX NORTH"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "5/19/2026 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "HISPANIC                                                                                                                                                                                                                                                       "
+      },
+      {
+        "label": "Shield No:",
+        "value": " "
       }
     ]
   },
@@ -168965,36 +168965,6 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "7/2/2018 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "067 DOMESTIC VIOLENCE SQUAD"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "10/15/2026 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "ASIAN                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "2428    "
-      }
-    ]
-  },
-  {
-    "title": "CHEN, ALEX                                                                                              ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
         "value": "LIEUTENANT"
       },
       {
@@ -169016,6 +168986,36 @@
       {
         "label": "Shield No:",
         "value": " "
+      }
+    ]
+  },
+  {
+    "title": "CHEN, ALEX                                                                                              ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "7/2/2018 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "067 DOMESTIC VIOLENCE SQUAD"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "10/15/2026 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "ASIAN                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "2428    "
       }
     ]
   },
@@ -188705,36 +188705,6 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "1/8/2014 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "079 PRECINCT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "5/9/2016 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "HISPANIC                                                                                                                                                                                                                                                       "
-      },
-      {
-        "label": "Shield No:",
-        "value": "11625   "
-      }
-    ]
-  },
-  {
-    "title": "COLLADO, EDWIN M                                                                                        ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
         "value": "SERGEANT"
       },
       {
@@ -188756,6 +188726,36 @@
       {
         "label": "Shield No:",
         "value": "261     "
+      }
+    ]
+  },
+  {
+    "title": "COLLADO, EDWIN M                                                                                        ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "1/8/2014 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "079 PRECINCT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "5/9/2016 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "HISPANIC                                                                                                                                                                                                                                                       "
+      },
+      {
+        "label": "Shield No:",
+        "value": "11625   "
       }
     ]
   },
@@ -211599,36 +211599,6 @@
       },
       {
         "label": "Appointment Date:",
-        "value": "1/6/2020 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "EXTENDED LEAVE SERVICES GROUP"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "6/5/2023 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "HISPANIC                                                                                                                                                                                                                                                       "
-      },
-      {
-        "label": "Shield No:",
-        "value": "24526   "
-      }
-    ]
-  },
-  {
-    "title": "CRUZ, GABRIEL                                                                                           ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
         "value": "7/1/2002 12:00:00 AM"
       },
       {
@@ -211646,6 +211616,36 @@
       {
         "label": "Shield No:",
         "value": "25757   "
+      }
+    ]
+  },
+  {
+    "title": "CRUZ, GABRIEL                                                                                           ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "1/6/2020 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "EXTENDED LEAVE SERVICES GROUP"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "6/5/2023 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "HISPANIC                                                                                                                                                                                                                                                       "
+      },
+      {
+        "label": "Shield No:",
+        "value": "24526   "
       }
     ]
   },
@@ -212585,36 +212585,6 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "DETECTIVE SPECIALIST"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "7/10/2006 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "046 PRECINCT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "9/5/2014 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "HISPANIC                                                                                                                                                                                                                                                       "
-      },
-      {
-        "label": "Shield No:",
-        "value": "5460    "
-      }
-    ]
-  },
-  {
-    "title": "CRUZ, LUIS A                                                                                            ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
         "value": "POLICE OFFICER"
       },
       {
@@ -212636,6 +212606,36 @@
       {
         "label": "Shield No:",
         "value": "13410   "
+      }
+    ]
+  },
+  {
+    "title": "CRUZ, LUIS A                                                                                            ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "DETECTIVE SPECIALIST"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "7/10/2006 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "046 PRECINCT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "9/5/2014 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "HISPANIC                                                                                                                                                                                                                                                       "
+      },
+      {
+        "label": "Shield No:",
+        "value": "5460    "
       }
     ]
   },
@@ -212885,36 +212885,6 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "LT DET COMMANDER"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "1/9/2006 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "IAB GROUP 32"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "11/24/2025 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "HISPANIC                                                                                                                                                                                                                                                       "
-      },
-      {
-        "label": "Shield No:",
-        "value": " "
-      }
-    ]
-  },
-  {
-    "title": "CRUZ, MIGUEL A                                                                                          ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
         "value": "SGT SPECIAL ASSIGN"
       },
       {
@@ -212936,6 +212906,36 @@
       {
         "label": "Shield No:",
         "value": "181     "
+      }
+    ]
+  },
+  {
+    "title": "CRUZ, MIGUEL A                                                                                          ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "LT DET COMMANDER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "1/9/2006 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "IAB GROUP 32"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "11/24/2025 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "HISPANIC                                                                                                                                                                                                                                                       "
+      },
+      {
+        "label": "Shield No:",
+        "value": " "
       }
     ]
   },
@@ -213729,36 +213729,6 @@
       },
       {
         "label": "Appointment Date:",
-        "value": "7/10/2006 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "IN-SERVICE TRAINING SECTION"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "4/24/2026 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "HISPANIC                                                                                                                                                                                                                                                       "
-      },
-      {
-        "label": "Shield No:",
-        "value": "26793   "
-      }
-    ]
-  },
-  {
-    "title": "CRUZ, VICTOR J                                                                                          ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
         "value": "1/7/2015 12:00:00 AM"
       },
       {
@@ -213776,6 +213746,36 @@
       {
         "label": "Shield No:",
         "value": "22651   "
+      }
+    ]
+  },
+  {
+    "title": "CRUZ, VICTOR J                                                                                          ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "7/10/2006 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "IN-SERVICE TRAINING SECTION"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "4/24/2026 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "HISPANIC                                                                                                                                                                                                                                                       "
+      },
+      {
+        "label": "Shield No:",
+        "value": "26793   "
       }
     ]
   },
@@ -233709,36 +233709,6 @@
       },
       {
         "label": "Appointment Date:",
-        "value": "1/10/2007 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "CRC CANINE UNIT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "9/23/2022 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "HISPANIC                                                                                                                                                                                                                                                       "
-      },
-      {
-        "label": "Shield No:",
-        "value": "22206   "
-      }
-    ]
-  },
-  {
-    "title": "DELACRUZ, RAFAEL                                                                                        ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
         "value": "1/7/2008 12:00:00 AM"
       },
       {
@@ -233756,6 +233726,36 @@
       {
         "label": "Shield No:",
         "value": "23487   "
+      }
+    ]
+  },
+  {
+    "title": "DELACRUZ, RAFAEL                                                                                        ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "1/10/2007 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "CRC CANINE UNIT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "9/23/2022 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "HISPANIC                                                                                                                                                                                                                                                       "
+      },
+      {
+        "label": "Shield No:",
+        "value": "22206   "
       }
     ]
   },
@@ -236915,36 +236915,6 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "SERGEANT"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "1/10/2007 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "PATROL BORO MAN SOUTH"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "3/8/2021 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "HISPANIC                                                                                                                                                                                                                                                       "
-      },
-      {
-        "label": "Shield No:",
-        "value": "1358    "
-      }
-    ]
-  },
-  {
-    "title": "DELGADO, CARLOS A                                                                                       ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
         "value": "POLICE OFFICER"
       },
       {
@@ -236966,6 +236936,36 @@
       {
         "label": "Shield No:",
         "value": "24013   "
+      }
+    ]
+  },
+  {
+    "title": "DELGADO, CARLOS A                                                                                       ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "SERGEANT"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "1/10/2007 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "PATROL BORO MAN SOUTH"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "3/8/2021 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "HISPANIC                                                                                                                                                                                                                                                       "
+      },
+      {
+        "label": "Shield No:",
+        "value": "1358    "
       }
     ]
   },
@@ -250359,36 +250359,6 @@
       },
       {
         "label": "Appointment Date:",
-        "value": "4/26/2023 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "HOUSING PSA 8"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "10/31/2023 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "HISPANIC                                                                                                                                                                                                                                                       "
-      },
-      {
-        "label": "Shield No:",
-        "value": "28299   "
-      }
-    ]
-  },
-  {
-    "title": "DIAZ, BRIAN                                                                                             ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
         "value": "1/4/2017 12:00:00 AM"
       },
       {
@@ -250406,6 +250376,36 @@
       {
         "label": "Shield No:",
         "value": "18840   "
+      }
+    ]
+  },
+  {
+    "title": "DIAZ, BRIAN                                                                                             ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "4/26/2023 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "HOUSING PSA 8"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "10/31/2023 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "HISPANIC                                                                                                                                                                                                                                                       "
+      },
+      {
+        "label": "Shield No:",
+        "value": "28299   "
       }
     ]
   },
@@ -286299,36 +286299,6 @@
       },
       {
         "label": "Appointment Date:",
-        "value": "7/10/2006 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "HOUSING PSA 1"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "8/6/2007 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "HISPANIC                                                                                                                                                                                                                                                       "
-      },
-      {
-        "label": "Shield No:",
-        "value": "26832   "
-      }
-    ]
-  },
-  {
-    "title": "ESPINAL, FRANCISCO A                                                                                    ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
         "value": "10/25/2023 12:00:00 AM"
       },
       {
@@ -286346,6 +286316,36 @@
       {
         "label": "Shield No:",
         "value": "20764   "
+      }
+    ]
+  },
+  {
+    "title": "ESPINAL, FRANCISCO A                                                                                    ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "7/10/2006 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "HOUSING PSA 1"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "8/6/2007 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "HISPANIC                                                                                                                                                                                                                                                       "
+      },
+      {
+        "label": "Shield No:",
+        "value": "26832   "
       }
     ]
   },
@@ -334539,36 +334539,6 @@
       },
       {
         "label": "Appointment Date:",
-        "value": "10/12/2021 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "044 PRECINCT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "4/14/2022 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "WHITE                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "7985    "
-      }
-    ]
-  },
-  {
-    "title": "GARCIA, ANDREW R                                                                                        ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
         "value": "4/26/2023 12:00:00 AM"
       },
       {
@@ -334616,6 +334586,36 @@
       {
         "label": "Shield No:",
         "value": "23500   "
+      }
+    ]
+  },
+  {
+    "title": "GARCIA, ANDREW R                                                                                        ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "10/12/2021 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "044 PRECINCT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "4/14/2022 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "WHITE                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "7985    "
       }
     ]
   },
@@ -337119,36 +337119,6 @@
       },
       {
         "label": "Appointment Date:",
-        "value": "1/10/2007 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "TB ANTI TERRORISM UNIT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "1/5/2026 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "HISPANIC                                                                                                                                                                                                                                                       "
-      },
-      {
-        "label": "Shield No:",
-        "value": "25991   "
-      }
-    ]
-  },
-  {
-    "title": "GARCIA, JOHN C                                                                                          ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
         "value": "1/6/2016 12:00:00 AM"
       },
       {
@@ -337170,24 +337140,24 @@
     ]
   },
   {
-    "title": "GARCIA, JONATHAN A                                                                                      ",
+    "title": "GARCIA, JOHN C                                                                                          ",
     "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
     "items": [
       {
         "label": "Rank:",
-        "value": "SERGEANT"
+        "value": "POLICE OFFICER"
       },
       {
         "label": "Appointment Date:",
-        "value": "1/9/2012 12:00:00 AM"
+        "value": "1/10/2007 12:00:00 AM"
       },
       {
         "label": "Command:",
-        "value": "028 PRECINCT"
+        "value": "TB ANTI TERRORISM UNIT"
       },
       {
         "label": "Assignment Date:",
-        "value": "12/24/2025 12:00:00 AM"
+        "value": "1/5/2026 12:00:00 AM"
       },
       {
         "label": "Ethnicity:",
@@ -337195,7 +337165,7 @@
       },
       {
         "label": "Shield No:",
-        "value": "3562    "
+        "value": "25991   "
       }
     ]
   },
@@ -337226,6 +337196,36 @@
       {
         "label": "Shield No:",
         "value": "17009   "
+      }
+    ]
+  },
+  {
+    "title": "GARCIA, JONATHAN A                                                                                      ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "SERGEANT"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "1/9/2012 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "028 PRECINCT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "12/24/2025 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "HISPANIC                                                                                                                                                                                                                                                       "
+      },
+      {
+        "label": "Shield No:",
+        "value": "3562    "
       }
     ]
   },
@@ -359949,36 +359949,6 @@
       },
       {
         "label": "Appointment Date:",
-        "value": "1/9/2012 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "MANHATTAN WARRANT SQD"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "6/9/2025 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "HISPANIC                                                                                                                                                                                                                                                       "
-      },
-      {
-        "label": "Shield No:",
-        "value": "20766   "
-      }
-    ]
-  },
-  {
-    "title": "GOMEZ, JONATHAN                                                                                         ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
         "value": "7/13/2021 12:00:00 AM"
       },
       {
@@ -360000,24 +359970,24 @@
     ]
   },
   {
-    "title": "GOMEZ, JOSE A                                                                                           ",
+    "title": "GOMEZ, JONATHAN                                                                                         ",
     "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
     "items": [
       {
         "label": "Rank:",
-        "value": "LIEUTENANT"
+        "value": "POLICE OFFICER"
       },
       {
         "label": "Appointment Date:",
-        "value": "1/10/2007 12:00:00 AM"
+        "value": "1/9/2012 12:00:00 AM"
       },
       {
         "label": "Command:",
-        "value": "028 PRECINCT"
+        "value": "MANHATTAN WARRANT SQD"
       },
       {
         "label": "Assignment Date:",
-        "value": "10/12/2026 12:00:00 AM"
+        "value": "6/9/2025 12:00:00 AM"
       },
       {
         "label": "Ethnicity:",
@@ -360025,7 +359995,7 @@
       },
       {
         "label": "Shield No:",
-        "value": " "
+        "value": "20766   "
       }
     ]
   },
@@ -360056,6 +360026,36 @@
       {
         "label": "Shield No:",
         "value": "7599    "
+      }
+    ]
+  },
+  {
+    "title": "GOMEZ, JOSE A                                                                                           ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "LIEUTENANT"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "1/10/2007 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "028 PRECINCT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "10/12/2026 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "HISPANIC                                                                                                                                                                                                                                                       "
+      },
+      {
+        "label": "Shield No:",
+        "value": " "
       }
     ]
   },
@@ -363069,36 +363069,6 @@
       },
       {
         "label": "Appointment Date:",
-        "value": "1/6/2020 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "PBQN CITI FIELD DETAIL"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "1/5/2026 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "HISPANIC                                                                                                                                                                                                                                                       "
-      },
-      {
-        "label": "Shield No:",
-        "value": "26404   "
-      }
-    ]
-  },
-  {
-    "title": "GONZALEZ, BRANDON L                                                                                     ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
         "value": "10/19/2022 12:00:00 AM"
       },
       {
@@ -363116,6 +363086,36 @@
       {
         "label": "Shield No:",
         "value": "16945   "
+      }
+    ]
+  },
+  {
+    "title": "GONZALEZ, BRANDON L                                                                                     ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "1/6/2020 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "PBQN CITI FIELD DETAIL"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "1/5/2026 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "HISPANIC                                                                                                                                                                                                                                                       "
+      },
+      {
+        "label": "Shield No:",
+        "value": "26404   "
       }
     ]
   },
@@ -365705,36 +365705,6 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "DETECTIVE 2ND GRADE"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "1/10/2007 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "INTEL CIS FIO PROGRAM"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "2/12/2022 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "HISPANIC                                                                                                                                                                                                                                                       "
-      },
-      {
-        "label": "Shield No:",
-        "value": "5947    "
-      }
-    ]
-  },
-  {
-    "title": "GONZALEZ, MICHAEL                                                                                       ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
         "value": "DETECTIVE 3RD GRADE"
       },
       {
@@ -365756,6 +365726,36 @@
       {
         "label": "Shield No:",
         "value": "870     "
+      }
+    ]
+  },
+  {
+    "title": "GONZALEZ, MICHAEL                                                                                       ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "DETECTIVE 2ND GRADE"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "1/10/2007 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "INTEL CIS FIO PROGRAM"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "2/12/2022 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "HISPANIC                                                                                                                                                                                                                                                       "
+      },
+      {
+        "label": "Shield No:",
+        "value": "5947    "
       }
     ]
   },
@@ -383555,36 +383555,6 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "10/25/2023 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "067 PRECINCT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "5/7/2024 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "WHITE                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "14387   "
-      }
-    ]
-  },
-  {
-    "title": "GULOTTA, JOSEPH M                                                                                       ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
         "value": "CHIEF OF TRANSIT"
       },
       {
@@ -383606,6 +383576,36 @@
       {
         "label": "Shield No:",
         "value": " "
+      }
+    ]
+  },
+  {
+    "title": "GULOTTA, JOSEPH M                                                                                       ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "10/25/2023 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "067 PRECINCT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "5/7/2024 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "WHITE                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "14387   "
       }
     ]
   },
@@ -385055,36 +385055,6 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "SGT DET SQUAD"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "1/9/2012 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "CRIMINAL ENTERPRISE INVEST SEC"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "10/5/2026 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "HISPANIC                                                                                                                                                                                                                                                       "
-      },
-      {
-        "label": "Shield No:",
-        "value": "3464    "
-      }
-    ]
-  },
-  {
-    "title": "GUTIERREZ, CHRISTIAN                                                                                    ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
         "value": "POLICE OFFICER"
       },
       {
@@ -385136,6 +385106,36 @@
       {
         "label": "Shield No:",
         "value": "20950   "
+      }
+    ]
+  },
+  {
+    "title": "GUTIERREZ, CHRISTIAN                                                                                    ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "SGT DET SQUAD"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "1/9/2012 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "CRIMINAL ENTERPRISE INVEST SEC"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "10/5/2026 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "HISPANIC                                                                                                                                                                                                                                                       "
+      },
+      {
+        "label": "Shield No:",
+        "value": "3464    "
       }
     ]
   },
@@ -397089,36 +397089,6 @@
       },
       {
         "label": "Appointment Date:",
-        "value": "1/10/2007 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "COMMUNITY AFFAIRS BUREAU"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "1/23/2024 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "BLACK                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "768     "
-      }
-    ]
-  },
-  {
-    "title": "HARRIS, CHRISTOPHER G                                                                                   ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
         "value": "7/6/2010 12:00:00 AM"
       },
       {
@@ -397136,6 +397106,36 @@
       {
         "label": "Shield No:",
         "value": "11876   "
+      }
+    ]
+  },
+  {
+    "title": "HARRIS, CHRISTOPHER G                                                                                   ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "1/10/2007 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "COMMUNITY AFFAIRS BUREAU"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "1/23/2024 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "BLACK                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "768     "
       }
     ]
   },
@@ -408189,36 +408189,6 @@
       },
       {
         "label": "Appointment Date:",
-        "value": "11/2/2020 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "CRITICAL RESPONSE COMMAND"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "6/1/2026 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "HISPANIC                                                                                                                                                                                                                                                       "
-      },
-      {
-        "label": "Shield No:",
-        "value": "1138    "
-      }
-    ]
-  },
-  {
-    "title": "HERNANDEZ, DAVID A                                                                                      ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
         "value": "1/6/2020 12:00:00 AM"
       },
       {
@@ -408236,6 +408206,36 @@
       {
         "label": "Shield No:",
         "value": "29348   "
+      }
+    ]
+  },
+  {
+    "title": "HERNANDEZ, DAVID A                                                                                      ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "11/2/2020 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "CRITICAL RESPONSE COMMAND"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "6/1/2026 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "HISPANIC                                                                                                                                                                                                                                                       "
+      },
+      {
+        "label": "Shield No:",
+        "value": "1138    "
       }
     ]
   },
@@ -422375,36 +422375,6 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "SGT SPECIAL ASSIGN"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "1/9/2012 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "PATROL BORO BKLYN NORTH"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "10/9/2025 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "ASIAN                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "3507    "
-      }
-    ]
-  },
-  {
-    "title": "HOM, NICHOLAS                                                                                           ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
         "value": "SERGEANT"
       },
       {
@@ -422426,6 +422396,36 @@
       {
         "label": "Shield No:",
         "value": "4181    "
+      }
+    ]
+  },
+  {
+    "title": "HOM, NICHOLAS                                                                                           ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "SGT SPECIAL ASSIGN"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "1/9/2012 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "PATROL BORO BKLYN NORTH"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "10/9/2025 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "ASIAN                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "3507    "
       }
     ]
   },
@@ -431885,36 +431885,6 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "10/12/2021 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "075 PRECINCT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "2/9/2026 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "ASIAN                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "8014    "
-      }
-    ]
-  },
-  {
-    "title": "HUSSAIN, ADNAN                                                                                          ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
         "value": "SERGEANT"
       },
       {
@@ -431936,6 +431906,36 @@
       {
         "label": "Shield No:",
         "value": "1316    "
+      }
+    ]
+  },
+  {
+    "title": "HUSSAIN, ADNAN                                                                                          ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "10/12/2021 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "075 PRECINCT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "2/9/2026 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "ASIAN                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "8014    "
       }
     ]
   },
@@ -441669,36 +441669,6 @@
       },
       {
         "label": "Appointment Date:",
-        "value": "8/20/2025 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "043 PCT FIELD TRAINING UNIT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "6/22/2026 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "ASIAN                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "20674   "
-      }
-    ]
-  },
-  {
-    "title": "ISLAM, MD R                                                                                             ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
         "value": "10/7/2019 12:00:00 AM"
       },
       {
@@ -441716,6 +441686,36 @@
       {
         "label": "Shield No:",
         "value": "26195   "
+      }
+    ]
+  },
+  {
+    "title": "ISLAM, MD R                                                                                             ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "8/20/2025 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "043 PCT FIELD TRAINING UNIT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "6/22/2026 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "ASIAN                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "20674   "
       }
     ]
   },
@@ -441905,36 +441905,6 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "12/29/2021 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "017 PRECINCT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "7/13/2026 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "ASIAN                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "30813   "
-      }
-    ]
-  },
-  {
-    "title": "ISLAM, MD S                                                                                             ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
         "value": "SERGEANT"
       },
       {
@@ -441956,6 +441926,36 @@
       {
         "label": "Shield No:",
         "value": "2909    "
+      }
+    ]
+  },
+  {
+    "title": "ISLAM, MD S                                                                                             ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "12/29/2021 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "017 PRECINCT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "7/13/2026 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "ASIAN                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "30813   "
       }
     ]
   },
@@ -442055,36 +442055,6 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "8/20/2025 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "047 PCT FIELD TRAINING UNIT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "6/22/2026 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "ASIAN                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "29496   "
-      }
-    ]
-  },
-  {
-    "title": "ISLAM, MOHAMMAD M                                                                                       ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
         "value": "DETECTIVE 2ND GRADE"
       },
       {
@@ -442106,6 +442076,36 @@
       {
         "label": "Shield No:",
         "value": "1368    "
+      }
+    ]
+  },
+  {
+    "title": "ISLAM, MOHAMMAD M                                                                                       ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "8/20/2025 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "047 PCT FIELD TRAINING UNIT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "6/22/2026 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "ASIAN                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "29496   "
       }
     ]
   },
@@ -466809,36 +466809,6 @@
       },
       {
         "label": "Appointment Date:",
-        "value": "10/7/2019 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "001 PRECINCT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "4/22/2026 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "BLACK                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "25894   "
-      }
-    ]
-  },
-  {
-    "title": "JOSEPH, SAMANTHA D                                                                                      ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
         "value": "7/22/2026 12:00:00 AM"
       },
       {
@@ -466856,6 +466826,36 @@
       {
         "label": "Shield No:",
         "value": "18829   "
+      }
+    ]
+  },
+  {
+    "title": "JOSEPH, SAMANTHA D                                                                                      ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "10/7/2019 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "001 PRECINCT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "4/22/2026 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "BLACK                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "25894   "
       }
     ]
   },
@@ -466959,36 +466959,6 @@
       },
       {
         "label": "Appointment Date:",
-        "value": "7/14/2009 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "TB ANTI TERRORISM UNIT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "1/5/2026 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "ASIAN                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "26841   "
-      }
-    ]
-  },
-  {
-    "title": "JOSEPH, STANLEY                                                                                         ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
         "value": "7/5/2023 12:00:00 AM"
       },
       {
@@ -467006,6 +466976,36 @@
       {
         "label": "Shield No:",
         "value": "15154   "
+      }
+    ]
+  },
+  {
+    "title": "JOSEPH, STANLEY                                                                                         ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "7/14/2009 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "TB ANTI TERRORISM UNIT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "1/5/2026 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "ASIAN                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "26841   "
       }
     ]
   },
@@ -474005,36 +474005,6 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "10/25/2023 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "HOUSING PSA 7"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "5/7/2024 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "ASIAN                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "13236   "
-      }
-    ]
-  },
-  {
-    "title": "KARIM, MD R                                                                                             ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
         "value": "SERGEANT"
       },
       {
@@ -474056,6 +474026,36 @@
       {
         "label": "Shield No:",
         "value": "1594    "
+      }
+    ]
+  },
+  {
+    "title": "KARIM, MD R                                                                                             ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "10/25/2023 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "HOUSING PSA 7"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "5/7/2024 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "ASIAN                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "13236   "
       }
     ]
   },
@@ -478535,36 +478535,6 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "DETECTIVE SPECIALIST"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "7/22/2008 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "014 PCT-MIDTOWN SO. PCT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "2/2/2026 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "WHITE                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "5710    "
-      }
-    ]
-  },
-  {
-    "title": "KELLY, BRIAN P                                                                                          ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
         "value": "POLICE OFFICER"
       },
       {
@@ -478586,6 +478556,36 @@
       {
         "label": "Shield No:",
         "value": "10289   "
+      }
+    ]
+  },
+  {
+    "title": "KELLY, BRIAN P                                                                                          ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "DETECTIVE SPECIALIST"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "7/22/2008 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "014 PCT-MIDTOWN SO. PCT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "2/2/2026 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "WHITE                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "5710    "
       }
     ]
   },
@@ -486845,36 +486845,6 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "10/15/2021 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "090 PRECINCT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "4/14/2022 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "ASIAN                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "457     "
-      }
-    ]
-  },
-  {
-    "title": "KIM, BRYAN                                                                                              ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
         "value": "SERGEANT"
       },
       {
@@ -486896,6 +486866,36 @@
       {
         "label": "Shield No:",
         "value": "3818    "
+      }
+    ]
+  },
+  {
+    "title": "KIM, BRYAN                                                                                              ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "10/15/2021 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "090 PRECINCT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "4/14/2022 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "ASIAN                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "457     "
       }
     ]
   },
@@ -487025,36 +487025,6 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "4/13/2022 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "032 PRECINCT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "12/26/2022 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "ASIAN                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "6545    "
-      }
-    ]
-  },
-  {
-    "title": "KIM, DANIEL H                                                                                           ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
         "value": "SERGEANT"
       },
       {
@@ -487076,6 +487046,36 @@
       {
         "label": "Shield No:",
         "value": "857     "
+      }
+    ]
+  },
+  {
+    "title": "KIM, DANIEL H                                                                                           ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "4/13/2022 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "032 PRECINCT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "12/26/2022 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "ASIAN                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "6545    "
       }
     ]
   },
@@ -488195,36 +488195,6 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "DETECTIVE SPECIALIST"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "1/9/2012 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "STRATEGIC RESPONSE GROUP"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "1/25/2023 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "ASIAN                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "1643    "
-      }
-    ]
-  },
-  {
-    "title": "KIM, PETER                                                                                              ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
         "value": "POLICE OFFICER"
       },
       {
@@ -488246,6 +488216,36 @@
       {
         "label": "Shield No:",
         "value": "23537   "
+      }
+    ]
+  },
+  {
+    "title": "KIM, PETER                                                                                              ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "DETECTIVE SPECIALIST"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "1/9/2012 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "STRATEGIC RESPONSE GROUP"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "1/25/2023 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "ASIAN                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "1643    "
       }
     ]
   },
@@ -517175,36 +517175,6 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "4/13/2022 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "034 PRECINCT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "12/26/2022 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "ASIAN                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "9973    "
-      }
-    ]
-  },
-  {
-    "title": "LEE, DAVID                                                                                              ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
         "value": "SERGEANT"
       },
       {
@@ -517256,6 +517226,36 @@
       {
         "label": "Shield No:",
         "value": "14518   "
+      }
+    ]
+  },
+  {
+    "title": "LEE, DAVID                                                                                              ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "4/13/2022 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "034 PRECINCT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "12/26/2022 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "ASIAN                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "9973    "
       }
     ]
   },
@@ -527079,36 +527079,6 @@
       },
       {
         "label": "Appointment Date:",
-        "value": "1/3/2024 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "109 PRECINCT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "7/16/2024 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "ASIAN                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "7046    "
-      }
-    ]
-  },
-  {
-    "title": "LI, KEVIN                                                                                               ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
         "value": "10/19/2022 12:00:00 AM"
       },
       {
@@ -527126,6 +527096,36 @@
       {
         "label": "Shield No:",
         "value": "17022   "
+      }
+    ]
+  },
+  {
+    "title": "LI, KEVIN                                                                                               ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "1/3/2024 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "109 PRECINCT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "7/16/2024 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "ASIAN                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "7046    "
       }
     ]
   },
@@ -541239,36 +541239,6 @@
       },
       {
         "label": "Appointment Date:",
-        "value": "4/13/2022 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "094 PRECINCT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "9/23/2024 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "HISPANIC                                                                                                                                                                                                                                                       "
-      },
-      {
-        "label": "Shield No:",
-        "value": "10379   "
-      }
-    ]
-  },
-  {
-    "title": "LOPEZ, JUAN F                                                                                           ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
         "value": "7/9/2007 12:00:00 AM"
       },
       {
@@ -541286,6 +541256,36 @@
       {
         "label": "Shield No:",
         "value": "14535   "
+      }
+    ]
+  },
+  {
+    "title": "LOPEZ, JUAN F                                                                                           ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "4/13/2022 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "094 PRECINCT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "9/23/2024 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "HISPANIC                                                                                                                                                                                                                                                       "
+      },
+      {
+        "label": "Shield No:",
+        "value": "10379   "
       }
     ]
   },
@@ -561969,36 +561969,6 @@
       },
       {
         "label": "Appointment Date:",
-        "value": "10/12/2021 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "WARRANT SECTION"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "4/17/2026 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "ASIAN                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "5735    "
-      }
-    ]
-  },
-  {
-    "title": "MALIK, BILAL A                                                                                          ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
         "value": "1/29/2025 12:00:00 AM"
       },
       {
@@ -562016,6 +561986,36 @@
       {
         "label": "Shield No:",
         "value": "18781   "
+      }
+    ]
+  },
+  {
+    "title": "MALIK, BILAL A                                                                                          ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "10/12/2021 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "WARRANT SECTION"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "4/17/2026 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "ASIAN                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "5735    "
       }
     ]
   },
@@ -579639,36 +579639,6 @@
       },
       {
         "label": "Appointment Date:",
-        "value": "7/8/2008 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "049 PRECINCT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "1/12/2011 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "HISPANIC                                                                                                                                                                                                                                                       "
-      },
-      {
-        "label": "Shield No:",
-        "value": "1999    "
-      }
-    ]
-  },
-  {
-    "title": "MARTINEZ, JOSE L                                                                                        ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
         "value": "11/2/2020 12:00:00 AM"
       },
       {
@@ -579686,6 +579656,36 @@
       {
         "label": "Shield No:",
         "value": "22746   "
+      }
+    ]
+  },
+  {
+    "title": "MARTINEZ, JOSE L                                                                                        ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "7/8/2008 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "049 PRECINCT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "1/12/2011 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "HISPANIC                                                                                                                                                                                                                                                       "
+      },
+      {
+        "label": "Shield No:",
+        "value": "1999    "
       }
     ]
   },
@@ -579939,36 +579939,6 @@
       },
       {
         "label": "Appointment Date:",
-        "value": "12/17/2025 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "TIMES SQUARE FIELD TRAINING UNIT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "9/30/2026 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "HISPANIC                                                                                                                                                                                                                                                       "
-      },
-      {
-        "label": "Shield No:",
-        "value": "7648    "
-      }
-    ]
-  },
-  {
-    "title": "MARTINEZ, JUSTIN J                                                                                      ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
         "value": "11/2/2020 12:00:00 AM"
       },
       {
@@ -579986,6 +579956,36 @@
       {
         "label": "Shield No:",
         "value": "22692   "
+      }
+    ]
+  },
+  {
+    "title": "MARTINEZ, JUSTIN J                                                                                      ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "12/17/2025 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "TIMES SQUARE FIELD TRAINING UNIT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "9/30/2026 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "HISPANIC                                                                                                                                                                                                                                                       "
+      },
+      {
+        "label": "Shield No:",
+        "value": "7648    "
       }
     ]
   },
@@ -607415,36 +607415,6 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "10/15/2021 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "077 PRECINCT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "6/18/2025 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "HISPANIC                                                                                                                                                                                                                                                       "
-      },
-      {
-        "label": "Shield No:",
-        "value": "5747    "
-      }
-    ]
-  },
-  {
-    "title": "MEDINA, MARILYN                                                                                         ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
         "value": "LIEUTENANT"
       },
       {
@@ -607466,6 +607436,36 @@
       {
         "label": "Shield No:",
         "value": " "
+      }
+    ]
+  },
+  {
+    "title": "MEDINA, MARILYN                                                                                         ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "10/15/2021 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "077 PRECINCT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "6/18/2025 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "HISPANIC                                                                                                                                                                                                                                                       "
+      },
+      {
+        "label": "Shield No:",
+        "value": "5747    "
       }
     ]
   },
@@ -623495,36 +623495,6 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "SERGEANT"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "1/4/2017 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "018 PCT-MIDTOWN NO. PCT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "9/30/2024 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "WHITE                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "949     "
-      }
-    ]
-  },
-  {
-    "title": "MILLER, MICHAEL J                                                                                       ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
         "value": "DETECTIVE 3RD GRADE"
       },
       {
@@ -623546,6 +623516,36 @@
       {
         "label": "Shield No:",
         "value": "6604    "
+      }
+    ]
+  },
+  {
+    "title": "MILLER, MICHAEL J                                                                                       ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "SERGEANT"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "1/4/2017 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "018 PCT-MIDTOWN NO. PCT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "9/30/2024 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "WHITE                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "949     "
       }
     ]
   },
@@ -629855,36 +629855,6 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "1/3/2024 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "HOUSING PSA 1"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "7/16/2024 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "WHITE                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "12624   "
-      }
-    ]
-  },
-  {
-    "title": "MOHAMED, MOHAMED A                                                                                      ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
         "value": "SERGEANT"
       },
       {
@@ -629906,6 +629876,36 @@
       {
         "label": "Shield No:",
         "value": "3016    "
+      }
+    ]
+  },
+  {
+    "title": "MOHAMED, MOHAMED A                                                                                      ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "1/3/2024 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "HOUSING PSA 1"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "7/16/2024 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "WHITE                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "12624   "
       }
     ]
   },
@@ -639065,36 +639065,6 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "12/29/2021 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "047 DET SQUAD"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "10/23/2025 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "HISPANIC                                                                                                                                                                                                                                                       "
-      },
-      {
-        "label": "Shield No:",
-        "value": "13473   "
-      }
-    ]
-  },
-  {
-    "title": "MORALES, EFRAIN                                                                                         ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
         "value": "DETECTIVE 2ND GRADE"
       },
       {
@@ -639116,6 +639086,36 @@
       {
         "label": "Shield No:",
         "value": "3800    "
+      }
+    ]
+  },
+  {
+    "title": "MORALES, EFRAIN                                                                                         ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "12/29/2021 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "047 DET SQUAD"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "10/23/2025 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "HISPANIC                                                                                                                                                                                                                                                       "
+      },
+      {
+        "label": "Shield No:",
+        "value": "13473   "
       }
     ]
   },
@@ -722109,36 +722109,6 @@
       },
       {
         "label": "Appointment Date:",
-        "value": "1/9/2006 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "101 PRECINCT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "6/27/2006 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "HISPANIC                                                                                                                                                                                                                                                       "
-      },
-      {
-        "label": "Shield No:",
-        "value": "18864   "
-      }
-    ]
-  },
-  {
-    "title": "PEREZ, DAVID                                                                                            ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
         "value": "7/6/2011 12:00:00 AM"
       },
       {
@@ -722156,6 +722126,36 @@
       {
         "label": "Shield No:",
         "value": "10089   "
+      }
+    ]
+  },
+  {
+    "title": "PEREZ, DAVID                                                                                            ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "1/9/2006 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "101 PRECINCT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "6/27/2006 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "HISPANIC                                                                                                                                                                                                                                                       "
+      },
+      {
+        "label": "Shield No:",
+        "value": "18864   "
       }
     ]
   },
@@ -723819,36 +723819,6 @@
       },
       {
         "label": "Appointment Date:",
-        "value": "11/2/2020 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "DBXN EVIDENCE COLLECTION TEAM"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "7/24/2026 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "HISPANIC                                                                                                                                                                                                                                                       "
-      },
-      {
-        "label": "Shield No:",
-        "value": "22940   "
-      }
-    ]
-  },
-  {
-    "title": "PEREZ, JESUS                                                                                            ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
         "value": "7/9/2013 12:00:00 AM"
       },
       {
@@ -723866,6 +723836,36 @@
       {
         "label": "Shield No:",
         "value": "31139   "
+      }
+    ]
+  },
+  {
+    "title": "PEREZ, JESUS                                                                                            ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "11/2/2020 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "DBXN EVIDENCE COLLECTION TEAM"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "7/24/2026 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "HISPANIC                                                                                                                                                                                                                                                       "
+      },
+      {
+        "label": "Shield No:",
+        "value": "22940   "
       }
     ]
   },
@@ -756995,36 +756995,6 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "7/14/2009 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "EXTENDED LEAVE SERVICES GROUP"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "11/17/2016 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "HISPANIC                                                                                                                                                                                                                                                       "
-      },
-      {
-        "label": "Shield No:",
-        "value": "26968   "
-      }
-    ]
-  },
-  {
-    "title": "QUEZADA, CHRISTIAN A                                                                                    ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
         "value": "DETECTIVE 2ND GRADE"
       },
       {
@@ -757046,6 +757016,36 @@
       {
         "label": "Shield No:",
         "value": "4000    "
+      }
+    ]
+  },
+  {
+    "title": "QUEZADA, CHRISTIAN A                                                                                    ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "7/14/2009 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "EXTENDED LEAVE SERVICES GROUP"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "11/17/2016 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "HISPANIC                                                                                                                                                                                                                                                       "
+      },
+      {
+        "label": "Shield No:",
+        "value": "26968   "
       }
     ]
   },
@@ -763149,36 +763149,6 @@
       },
       {
         "label": "Appointment Date:",
-        "value": "10/25/2023 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "TRANSIT DISTRICT 33"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "5/7/2024 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "ASIAN                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "5197    "
-      }
-    ]
-  },
-  {
-    "title": "RAHMAN, ASHIQ                                                                                           ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
         "value": "7/3/2024 12:00:00 AM"
       },
       {
@@ -763196,6 +763166,36 @@
       {
         "label": "Shield No:",
         "value": "843     "
+      }
+    ]
+  },
+  {
+    "title": "RAHMAN, ASHIQ                                                                                           ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "10/25/2023 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "TRANSIT DISTRICT 33"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "5/7/2024 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "ASIAN                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "5197    "
       }
     ]
   },
@@ -763505,36 +763505,6 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "10/25/2023 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "TRANSIT DISTRICT 12"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "9/14/2026 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "ASIAN                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "11304   "
-      }
-    ]
-  },
-  {
-    "title": "RAHMAN, MAHBUBUR                                                                                        ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
         "value": "SERGEANT"
       },
       {
@@ -763556,6 +763526,36 @@
       {
         "label": "Shield No:",
         "value": "5000    "
+      }
+    ]
+  },
+  {
+    "title": "RAHMAN, MAHBUBUR                                                                                        ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "10/25/2023 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "TRANSIT DISTRICT 12"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "9/14/2026 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "ASIAN                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "11304   "
       }
     ]
   },
@@ -763689,66 +763689,6 @@
       },
       {
         "label": "Appointment Date:",
-        "value": "10/15/2021 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "TRANSIT DISTRICT 11"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "10/17/2022 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "ASIAN                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "2129    "
-      }
-    ]
-  },
-  {
-    "title": "RAHMAN, MD M                                                                                            ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "12/29/2020 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "060 PRECINCT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "9/9/2024 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "ASIAN                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "5251    "
-      }
-    ]
-  },
-  {
-    "title": "RAHMAN, MD M                                                                                            ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
         "value": "8/20/2025 12:00:00 AM"
       },
       {
@@ -763856,6 +763796,66 @@
       {
         "label": "Shield No:",
         "value": "24245   "
+      }
+    ]
+  },
+  {
+    "title": "RAHMAN, MD M                                                                                            ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "12/29/2020 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "060 PRECINCT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "9/9/2024 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "ASIAN                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "5251    "
+      }
+    ]
+  },
+  {
+    "title": "RAHMAN, MD M                                                                                            ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "10/15/2021 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "TRANSIT DISTRICT 11"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "10/17/2022 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "ASIAN                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "2129    "
       }
     ]
   },
@@ -764165,36 +764165,6 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "SERGEANT"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "7/9/2013 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "TRANSIT DISTRICT 20"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "12/24/2025 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "ASIAN                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "1870    "
-      }
-    ]
-  },
-  {
-    "title": "RAHMAN, MOHAMMAD M                                                                                      ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
         "value": "POLICE OFFICER"
       },
       {
@@ -764216,6 +764186,36 @@
       {
         "label": "Shield No:",
         "value": "30262   "
+      }
+    ]
+  },
+  {
+    "title": "RAHMAN, MOHAMMAD M                                                                                      ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "SERGEANT"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "7/9/2013 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "TRANSIT DISTRICT 20"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "12/24/2025 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "ASIAN                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "1870    "
       }
     ]
   },
@@ -783909,36 +783909,6 @@
       },
       {
         "label": "Appointment Date:",
-        "value": "7/7/2021 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "110 PRECINCT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "12/30/2021 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "HISPANIC                                                                                                                                                                                                                                                       "
-      },
-      {
-        "label": "Shield No:",
-        "value": "23143   "
-      }
-    ]
-  },
-  {
-    "title": "REYES, JONATHAN D                                                                                       ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
         "value": "4/22/2026 12:00:00 AM"
       },
       {
@@ -783956,6 +783926,36 @@
       {
         "label": "Shield No:",
         "value": "14194   "
+      }
+    ]
+  },
+  {
+    "title": "REYES, JONATHAN D                                                                                       ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "7/7/2021 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "110 PRECINCT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "12/30/2021 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "HISPANIC                                                                                                                                                                                                                                                       "
+      },
+      {
+        "label": "Shield No:",
+        "value": "23143   "
       }
     ]
   },
@@ -786699,36 +786699,6 @@
       },
       {
         "label": "Appointment Date:",
-        "value": "10/25/2023 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "052 PRECINCT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "5/7/2024 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "HISPANIC                                                                                                                                                                                                                                                       "
-      },
-      {
-        "label": "Shield No:",
-        "value": "31955   "
-      }
-    ]
-  },
-  {
-    "title": "REYNOSO, JOSE                                                                                           ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
         "value": "4/25/2018 12:00:00 AM"
       },
       {
@@ -786746,6 +786716,36 @@
       {
         "label": "Shield No:",
         "value": "1417    "
+      }
+    ]
+  },
+  {
+    "title": "REYNOSO, JOSE                                                                                           ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "10/25/2023 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "052 PRECINCT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "5/7/2024 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "HISPANIC                                                                                                                                                                                                                                                       "
+      },
+      {
+        "label": "Shield No:",
+        "value": "31955   "
       }
     ]
   },
@@ -795879,36 +795879,6 @@
       },
       {
         "label": "Appointment Date:",
-        "value": "10/7/2019 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "033 PRECINCT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "10/18/2022 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "HISPANIC                                                                                                                                                                                                                                                       "
-      },
-      {
-        "label": "Shield No:",
-        "value": "6268    "
-      }
-    ]
-  },
-  {
-    "title": "RIVERA, JOSE A                                                                                          ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
         "value": "7/9/2004 12:00:00 AM"
       },
       {
@@ -795926,6 +795896,36 @@
       {
         "label": "Shield No:",
         "value": "16290   "
+      }
+    ]
+  },
+  {
+    "title": "RIVERA, JOSE A                                                                                          ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "10/7/2019 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "033 PRECINCT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "10/18/2022 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "HISPANIC                                                                                                                                                                                                                                                       "
+      },
+      {
+        "label": "Shield No:",
+        "value": "6268    "
       }
     ]
   },
@@ -804219,36 +804219,6 @@
       },
       {
         "label": "Appointment Date:",
-        "value": "12/29/2020 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "025 PRECINCT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "5/4/2026 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "HISPANIC                                                                                                                                                                                                                                                       "
-      },
-      {
-        "label": "Shield No:",
-        "value": "5285    "
-      }
-    ]
-  },
-  {
-    "title": "RODRIGUEZ, ANTHONY D                                                                                    ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
         "value": "10/30/2024 12:00:00 AM"
       },
       {
@@ -804266,6 +804236,36 @@
       {
         "label": "Shield No:",
         "value": "6084    "
+      }
+    ]
+  },
+  {
+    "title": "RODRIGUEZ, ANTHONY D                                                                                    ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "12/29/2020 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "025 PRECINCT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "5/4/2026 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "HISPANIC                                                                                                                                                                                                                                                       "
+      },
+      {
+        "label": "Shield No:",
+        "value": "5285    "
       }
     ]
   },
@@ -805269,36 +805269,6 @@
       },
       {
         "label": "Appointment Date:",
-        "value": "1/17/2024 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "083 PRECINCT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "7/16/2024 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "HISPANIC                                                                                                                                                                                                                                                       "
-      },
-      {
-        "label": "Shield No:",
-        "value": "7212    "
-      }
-    ]
-  },
-  {
-    "title": "RODRIGUEZ, DANIEL                                                                                       ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
         "value": "1/9/2013 12:00:00 AM"
       },
       {
@@ -805316,6 +805286,36 @@
       {
         "label": "Shield No:",
         "value": "13736   "
+      }
+    ]
+  },
+  {
+    "title": "RODRIGUEZ, DANIEL                                                                                       ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "1/17/2024 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "083 PRECINCT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "7/16/2024 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "HISPANIC                                                                                                                                                                                                                                                       "
+      },
+      {
+        "label": "Shield No:",
+        "value": "7212    "
       }
     ]
   },
@@ -806375,36 +806375,6 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "DETECTIVE 3RD GRADE"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "1/9/2006 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "TECH. ASSIST. & RESPONSE UNIT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "11/23/2015 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "HISPANIC                                                                                                                                                                                                                                                       "
-      },
-      {
-        "label": "Shield No:",
-        "value": "930     "
-      }
-    ]
-  },
-  {
-    "title": "RODRIGUEZ, FERNANDO                                                                                     ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
         "value": "DETECTIVE 2ND GRADE"
       },
       {
@@ -806426,6 +806396,36 @@
       {
         "label": "Shield No:",
         "value": "6928    "
+      }
+    ]
+  },
+  {
+    "title": "RODRIGUEZ, FERNANDO                                                                                     ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "DETECTIVE 3RD GRADE"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "1/9/2006 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "TECH. ASSIST. & RESPONSE UNIT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "11/23/2015 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "HISPANIC                                                                                                                                                                                                                                                       "
+      },
+      {
+        "label": "Shield No:",
+        "value": "930     "
       }
     ]
   },
@@ -806499,36 +806499,6 @@
       },
       {
         "label": "Appointment Date:",
-        "value": "12/29/2020 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "116 PRECINCT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "9/9/2026 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "HISPANIC                                                                                                                                                                                                                                                       "
-      },
-      {
-        "label": "Shield No:",
-        "value": "6131    "
-      }
-    ]
-  },
-  {
-    "title": "RODRIGUEZ, FRANCISCO                                                                                    ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
         "value": "4/22/2026 12:00:00 AM"
       },
       {
@@ -806546,6 +806516,36 @@
       {
         "label": "Shield No:",
         "value": "20714   "
+      }
+    ]
+  },
+  {
+    "title": "RODRIGUEZ, FRANCISCO                                                                                    ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "12/29/2020 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "116 PRECINCT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "9/9/2026 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "HISPANIC                                                                                                                                                                                                                                                       "
+      },
+      {
+        "label": "Shield No:",
+        "value": "6131    "
       }
     ]
   },
@@ -807579,36 +807579,6 @@
       },
       {
         "label": "Appointment Date:",
-        "value": "7/10/2006 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "RTCC SOCIAL MEDIA ANALYSIS & RESEARCH TEAM"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "7/10/2025 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "HISPANIC                                                                                                                                                                                                                                                       "
-      },
-      {
-        "label": "Shield No:",
-        "value": "4100    "
-      }
-    ]
-  },
-  {
-    "title": "RODRIGUEZ, JESSICA                                                                                      ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "DETECTIVE 3RD GRADE"
-      },
-      {
-        "label": "Appointment Date:",
         "value": "7/6/2011 12:00:00 AM"
       },
       {
@@ -807626,6 +807596,36 @@
       {
         "label": "Shield No:",
         "value": "2891    "
+      }
+    ]
+  },
+  {
+    "title": "RODRIGUEZ, JESSICA                                                                                      ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "DETECTIVE 3RD GRADE"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "7/10/2006 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "RTCC SOCIAL MEDIA ANALYSIS & RESEARCH TEAM"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "7/10/2025 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "HISPANIC                                                                                                                                                                                                                                                       "
+      },
+      {
+        "label": "Shield No:",
+        "value": "4100    "
       }
     ]
   },
@@ -808059,66 +808059,6 @@
       },
       {
         "label": "Appointment Date:",
-        "value": "10/25/2023 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "045 PRECINCT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "5/7/2024 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "HISPANIC                                                                                                                                                                                                                                                       "
-      },
-      {
-        "label": "Shield No:",
-        "value": "230     "
-      }
-    ]
-  },
-  {
-    "title": "RODRIGUEZ, JOSE A                                                                                       ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "1/9/2006 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "042 PRECINCT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "1/15/2007 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "HISPANIC                                                                                                                                                                                                                                                       "
-      },
-      {
-        "label": "Shield No:",
-        "value": "4854    "
-      }
-    ]
-  },
-  {
-    "title": "RODRIGUEZ, JOSE A                                                                                       ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
         "value": "8/20/2025 12:00:00 AM"
       },
       {
@@ -808166,6 +808106,66 @@
       {
         "label": "Shield No:",
         "value": "30826   "
+      }
+    ]
+  },
+  {
+    "title": "RODRIGUEZ, JOSE A                                                                                       ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "10/25/2023 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "045 PRECINCT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "5/7/2024 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "HISPANIC                                                                                                                                                                                                                                                       "
+      },
+      {
+        "label": "Shield No:",
+        "value": "230     "
+      }
+    ]
+  },
+  {
+    "title": "RODRIGUEZ, JOSE A                                                                                       ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "1/9/2006 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "042 PRECINCT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "1/15/2007 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "HISPANIC                                                                                                                                                                                                                                                       "
+      },
+      {
+        "label": "Shield No:",
+        "value": "4854    "
       }
     ]
   },
@@ -810695,36 +810695,6 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "12/29/2021 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "068 PRECINCT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "12/21/2022 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "HISPANIC                                                                                                                                                                                                                                                       "
-      },
-      {
-        "label": "Shield No:",
-        "value": "20222   "
-      }
-    ]
-  },
-  {
-    "title": "RODRIGUEZ, RAFAEL                                                                                       ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
         "value": "SERGEANT"
       },
       {
@@ -810746,6 +810716,36 @@
       {
         "label": "Shield No:",
         "value": "3275    "
+      }
+    ]
+  },
+  {
+    "title": "RODRIGUEZ, RAFAEL                                                                                       ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "12/29/2021 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "068 PRECINCT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "12/21/2022 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "HISPANIC                                                                                                                                                                                                                                                       "
+      },
+      {
+        "label": "Shield No:",
+        "value": "20222   "
       }
     ]
   },
@@ -811719,6 +811719,36 @@
       },
       {
         "label": "Appointment Date:",
+        "value": "1/10/2018 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "043 PRECINCT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "5/8/2019 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "HISPANIC                                                                                                                                                                                                                                                       "
+      },
+      {
+        "label": "Shield No:",
+        "value": "26663   "
+      }
+    ]
+  },
+  {
+    "title": "RODRIGUEZ, STEVEN                                                                                       ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
         "value": "7/1/2003 12:00:00 AM"
       },
       {
@@ -811796,36 +811826,6 @@
       {
         "label": "Shield No:",
         "value": "22411   "
-      }
-    ]
-  },
-  {
-    "title": "RODRIGUEZ, STEVEN                                                                                       ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "1/10/2018 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "043 PRECINCT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "5/8/2019 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "HISPANIC                                                                                                                                                                                                                                                       "
-      },
-      {
-        "label": "Shield No:",
-        "value": "26663   "
       }
     ]
   },
@@ -829629,36 +829629,6 @@
       },
       {
         "label": "Appointment Date:",
-        "value": "4/12/2017 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "078 PRECINCT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "5/2/2018 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "HISPANIC                                                                                                                                                                                                                                                       "
-      },
-      {
-        "label": "Shield No:",
-        "value": "8409    "
-      }
-    ]
-  },
-  {
-    "title": "RUIZ, JONATHAN                                                                                          ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
         "value": "1/3/2019 12:00:00 AM"
       },
       {
@@ -829676,6 +829646,36 @@
       {
         "label": "Shield No:",
         "value": "29010   "
+      }
+    ]
+  },
+  {
+    "title": "RUIZ, JONATHAN                                                                                          ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "4/12/2017 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "078 PRECINCT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "5/2/2018 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "HISPANIC                                                                                                                                                                                                                                                       "
+      },
+      {
+        "label": "Shield No:",
+        "value": "8409    "
       }
     ]
   },
@@ -833619,36 +833619,6 @@
       },
       {
         "label": "Appointment Date:",
-        "value": "7/21/2021 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "068 PRECINCT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "12/30/2021 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "WHITE                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "20814   "
-      }
-    ]
-  },
-  {
-    "title": "RYAN, SEAN P                                                                                            ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
         "value": "7/6/2010 12:00:00 AM"
       },
       {
@@ -833666,6 +833636,36 @@
       {
         "label": "Shield No:",
         "value": "12616   "
+      }
+    ]
+  },
+  {
+    "title": "RYAN, SEAN P                                                                                            ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "7/21/2021 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "068 PRECINCT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "12/30/2021 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "WHITE                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "20814   "
       }
     ]
   },
@@ -840399,36 +840399,6 @@
       },
       {
         "label": "Appointment Date:",
-        "value": "1/29/2025 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "081 PRECINCT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "6/22/2026 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "HISPANIC                                                                                                                                                                                                                                                       "
-      },
-      {
-        "label": "Shield No:",
-        "value": "17103   "
-      }
-    ]
-  },
-  {
-    "title": "SALGUERO, OSCAR A                                                                                       ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
         "value": "10/18/2017 12:00:00 AM"
       },
       {
@@ -840446,6 +840416,36 @@
       {
         "label": "Shield No:",
         "value": "8513    "
+      }
+    ]
+  },
+  {
+    "title": "SALGUERO, OSCAR A                                                                                       ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "1/29/2025 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "081 PRECINCT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "6/22/2026 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "HISPANIC                                                                                                                                                                                                                                                       "
+      },
+      {
+        "label": "Shield No:",
+        "value": "17103   "
       }
     ]
   },
@@ -846065,19 +846065,19 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "LT SPECIAL ASSIGN"
+        "value": "LIEUTENANT"
       },
       {
         "label": "Appointment Date:",
-        "value": "7/8/2008 12:00:00 AM"
+        "value": "1/9/2013 12:00:00 AM"
       },
       {
         "label": "Command:",
-        "value": "PATROL BORO QUEENS SOUTH"
+        "value": "TRANSIT DISTRICT 1"
       },
       {
         "label": "Assignment Date:",
-        "value": "7/10/2025 12:00:00 AM"
+        "value": "12/11/2025 12:00:00 AM"
       },
       {
         "label": "Ethnicity:",
@@ -846095,19 +846095,19 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "LIEUTENANT"
+        "value": "LT SPECIAL ASSIGN"
       },
       {
         "label": "Appointment Date:",
-        "value": "1/9/2013 12:00:00 AM"
+        "value": "7/8/2008 12:00:00 AM"
       },
       {
         "label": "Command:",
-        "value": "TRANSIT DISTRICT 1"
+        "value": "PATROL BORO QUEENS SOUTH"
       },
       {
         "label": "Assignment Date:",
-        "value": "12/11/2025 12:00:00 AM"
+        "value": "7/10/2025 12:00:00 AM"
       },
       {
         "label": "Ethnicity:",
@@ -851705,36 +851705,6 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "DETECTIVE 3RD GRADE"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "7/9/2013 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "088 DET SQUAD"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "10/11/2020 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "HISPANIC                                                                                                                                                                                                                                                       "
-      },
-      {
-        "label": "Shield No:",
-        "value": "2242    "
-      }
-    ]
-  },
-  {
-    "title": "SANTIAGO, EDUARDO                                                                                       ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
         "value": "POLICE OFFICER"
       },
       {
@@ -851756,6 +851726,36 @@
       {
         "label": "Shield No:",
         "value": "17539   "
+      }
+    ]
+  },
+  {
+    "title": "SANTIAGO, EDUARDO                                                                                       ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "DETECTIVE 3RD GRADE"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "7/9/2013 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "088 DET SQUAD"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "10/11/2020 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "HISPANIC                                                                                                                                                                                                                                                       "
+      },
+      {
+        "label": "Shield No:",
+        "value": "2242    "
       }
     ]
   },
@@ -852185,36 +852185,6 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "DETECTIVE 3RD GRADE"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "1/7/2015 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "WARRANT SECTION"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "10/3/2022 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "HISPANIC                                                                                                                                                                                                                                                       "
-      },
-      {
-        "label": "Shield No:",
-        "value": "2873    "
-      }
-    ]
-  },
-  {
-    "title": "SANTIAGO, JORGE L                                                                                       ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
         "value": "POLICE OFFICER"
       },
       {
@@ -852236,6 +852206,36 @@
       {
         "label": "Shield No:",
         "value": " "
+      }
+    ]
+  },
+  {
+    "title": "SANTIAGO, JORGE L                                                                                       ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "DETECTIVE 3RD GRADE"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "1/7/2015 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "WARRANT SECTION"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "10/3/2022 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "HISPANIC                                                                                                                                                                                                                                                       "
+      },
+      {
+        "label": "Shield No:",
+        "value": "2873    "
       }
     ]
   },
@@ -886565,36 +886565,6 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "7/9/2013 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "BROOKLYN COURT SECTION"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "4/13/2026 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "ASIAN                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "10783   "
-      }
-    ]
-  },
-  {
-    "title": "SINGH, AMARJIT                                                                                          ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
         "value": "DETECTIVE 2ND GRADE"
       },
       {
@@ -886646,6 +886616,36 @@
       {
         "label": "Shield No:",
         "value": "20759   "
+      }
+    ]
+  },
+  {
+    "title": "SINGH, AMARJIT                                                                                          ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "7/9/2013 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "BROOKLYN COURT SECTION"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "4/13/2026 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "ASIAN                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "10783   "
       }
     ]
   },
@@ -887529,66 +887529,6 @@
       },
       {
         "label": "Appointment Date:",
-        "value": "10/25/2023 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "HOUSING PSA 9"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "11/18/2024 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "ASIAN                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "13036   "
-      }
-    ]
-  },
-  {
-    "title": "SINGH, GURPREET                                                                                         ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "10/25/2023 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "014 PCT-MIDTOWN SO. PCT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "5/7/2024 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "ASIAN                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "19372   "
-      }
-    ]
-  },
-  {
-    "title": "SINGH, GURPREET                                                                                         ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
         "value": "4/30/2025 12:00:00 AM"
       },
       {
@@ -887696,6 +887636,66 @@
       {
         "label": "Shield No:",
         "value": "31915   "
+      }
+    ]
+  },
+  {
+    "title": "SINGH, GURPREET                                                                                         ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "10/25/2023 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "HOUSING PSA 9"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "11/18/2024 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "ASIAN                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "13036   "
+      }
+    ]
+  },
+  {
+    "title": "SINGH, GURPREET                                                                                         ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "10/25/2023 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "014 PCT-MIDTOWN SO. PCT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "5/7/2024 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "ASIAN                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "19372   "
       }
     ]
   },
@@ -887889,36 +887889,6 @@
       },
       {
         "label": "Appointment Date:",
-        "value": "1/3/2024 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "108 PRECINCT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "7/16/2024 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "ASIAN                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "15205   "
-      }
-    ]
-  },
-  {
-    "title": "SINGH, HARDEEP                                                                                          ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
         "value": "1/4/2017 12:00:00 AM"
       },
       {
@@ -887936,6 +887906,36 @@
       {
         "label": "Shield No:",
         "value": "23903   "
+      }
+    ]
+  },
+  {
+    "title": "SINGH, HARDEEP                                                                                          ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "1/3/2024 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "108 PRECINCT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "7/16/2024 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "ASIAN                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "15205   "
       }
     ]
   },
@@ -888125,36 +888125,6 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "SERGEANT"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "1/7/2015 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "116 PRECINCT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "12/14/2024 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "ASIAN                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "1664    "
-      }
-    ]
-  },
-  {
-    "title": "SINGH, HARPREET                                                                                         ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
         "value": "POLICE OFFICER"
       },
       {
@@ -888176,6 +888146,36 @@
       {
         "label": "Shield No:",
         "value": "21085   "
+      }
+    ]
+  },
+  {
+    "title": "SINGH, HARPREET                                                                                         ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "SERGEANT"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "1/7/2015 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "116 PRECINCT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "12/14/2024 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "ASIAN                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "1664    "
       }
     ]
   },
@@ -889389,36 +889389,6 @@
       },
       {
         "label": "Appointment Date:",
-        "value": "4/13/2022 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "TB ANTI TERRORISM UNIT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "1/5/2026 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "ASIAN                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "11330   "
-      }
-    ]
-  },
-  {
-    "title": "SINGH, PALWINDER                                                                                        ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
         "value": "7/5/2023 12:00:00 AM"
       },
       {
@@ -889436,6 +889406,36 @@
       {
         "label": "Shield No:",
         "value": "26891   "
+      }
+    ]
+  },
+  {
+    "title": "SINGH, PALWINDER                                                                                        ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "4/13/2022 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "TB ANTI TERRORISM UNIT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "1/5/2026 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "ASIAN                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "11330   "
       }
     ]
   },
@@ -894875,36 +894875,6 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "DETECTIVE 3RD GRADE"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "7/9/2013 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "NARCOTICS CANINE"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "3/31/2025 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "WHITE                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "5634    "
-      }
-    ]
-  },
-  {
-    "title": "SMITH, DANIEL F                                                                                         ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
         "value": "SERGEANT"
       },
       {
@@ -894926,6 +894896,36 @@
       {
         "label": "Shield No:",
         "value": "3920    "
+      }
+    ]
+  },
+  {
+    "title": "SMITH, DANIEL F                                                                                         ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "DETECTIVE 3RD GRADE"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "7/9/2013 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "NARCOTICS CANINE"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "3/31/2025 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "WHITE                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "5634    "
       }
     ]
   },
@@ -896885,36 +896885,6 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "7/9/2013 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "HARBOR UNIT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "9/27/2019 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "WHITE                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "10841   "
-      }
-    ]
-  },
-  {
-    "title": "SMITH, THOMAS J                                                                                         ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
         "value": "SERGEANT"
       },
       {
@@ -896936,6 +896906,36 @@
       {
         "label": "Shield No:",
         "value": "2548    "
+      }
+    ]
+  },
+  {
+    "title": "SMITH, THOMAS J                                                                                         ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "7/9/2013 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "HARBOR UNIT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "9/27/2019 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "WHITE                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "10841   "
       }
     ]
   },
@@ -957485,36 +957485,6 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "SGT SPECIAL ASSIGN"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "7/6/2010 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "TRN BUR CMD LVL TRAINING UNIT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "8/21/2023 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "ASIAN                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "147     "
-      }
-    ]
-  },
-  {
-    "title": "UDDIN, JASIM                                                                                            ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
         "value": "POLICE OFFICER"
       },
       {
@@ -957536,6 +957506,36 @@
       {
         "label": "Shield No:",
         "value": "4771    "
+      }
+    ]
+  },
+  {
+    "title": "UDDIN, JASIM                                                                                            ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "SGT SPECIAL ASSIGN"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "7/6/2010 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "TRN BUR CMD LVL TRAINING UNIT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "8/21/2023 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "ASIAN                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "147     "
       }
     ]
   },
@@ -957575,36 +957575,6 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "SERGEANT"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "1/7/2015 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "043 PRECINCT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "7/28/2025 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "ASIAN                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "1339    "
-      }
-    ]
-  },
-  {
-    "title": "UDDIN, MARUF                                                                                            ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
         "value": "POLICE OFFICER"
       },
       {
@@ -957626,6 +957596,36 @@
       {
         "label": "Shield No:",
         "value": "25495   "
+      }
+    ]
+  },
+  {
+    "title": "UDDIN, MARUF                                                                                            ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "SERGEANT"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "1/7/2015 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "043 PRECINCT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "7/28/2025 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "ASIAN                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "1339    "
       }
     ]
   },
@@ -992495,36 +992495,6 @@
     "items": [
       {
         "label": "Rank:",
-        "value": "POLICE OFFICER"
-      },
-      {
-        "label": "Appointment Date:",
-        "value": "4/25/2018 12:00:00 AM"
-      },
-      {
-        "label": "Command:",
-        "value": "MOUNTED UNIT"
-      },
-      {
-        "label": "Assignment Date:",
-        "value": "8/3/2024 12:00:00 AM"
-      },
-      {
-        "label": "Ethnicity:",
-        "value": "WHITE                                                                                                                                                                                                                                                          "
-      },
-      {
-        "label": "Shield No:",
-        "value": "5785    "
-      }
-    ]
-  },
-  {
-    "title": "WALSH, JAMES A                                                                                          ",
-    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
-    "items": [
-      {
-        "label": "Rank:",
         "value": "SERGEANT"
       },
       {
@@ -992546,6 +992516,36 @@
       {
         "label": "Shield No:",
         "value": "4503    "
+      }
+    ]
+  },
+  {
+    "title": "WALSH, JAMES A                                                                                          ",
+    "imageUrl": "/assets/img/1200px-Patch_of_the_New_York_City_Police_Department.svg.png",
+    "items": [
+      {
+        "label": "Rank:",
+        "value": "POLICE OFFICER"
+      },
+      {
+        "label": "Appointment Date:",
+        "value": "4/25/2018 12:00:00 AM"
+      },
+      {
+        "label": "Command:",
+        "value": "MOUNTED UNIT"
+      },
+      {
+        "label": "Assignment Date:",
+        "value": "8/3/2024 12:00:00 AM"
+      },
+      {
+        "label": "Ethnicity:",
+        "value": "WHITE                                                                                                                                                                                                                                                          "
+      },
+      {
+        "label": "Shield No:",
+        "value": "5785    "
       }
     ]
   },
